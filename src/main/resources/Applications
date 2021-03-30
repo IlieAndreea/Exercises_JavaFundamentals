@@ -1,0 +1,8 @@
+1. SwapExercises: a) Write a Java program that swaps two local variables a = 15; b = 25;
+                  b) Write a Java program that swaps two instance variables a = 15; b = 25;
+                  c) Write a Java program that swaps:  * two class variable m = 40 and n = 50;
+                                                       * two instance variables a = 15 b = 25;
+                                                       * also create a swap() that swaps two local variables x = 10 y = 15 and call it in main();
+2. Different text modifications in print()
+3. Define (declare and initialize) two variables: one of type „int” and second of type „double”.
+   Print: 1. their values, 2. the sum, 3. the max and the min, 4. the average, 5. the odd and even variables (of 2 new declared int variables)
